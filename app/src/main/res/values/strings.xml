@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson6.11</string>
+    <string name="message">Введите текст</string>
+    <string name="start">start</string>
+    <string name="text">Едит текст пустой</string>
+    <string name="mega">ЗНАЧЕНИЕ ОДИННАКОВОЕ!!!!</string>
+</resources>
